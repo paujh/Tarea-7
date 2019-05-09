@@ -1,3 +1,6 @@
+#Jorge_Hinostrosa_Paula
+#paulajhinostrosa@ciencias.unam.mx
+
 def InterseccionConjuntos(lista1):
   S = lista1[1]
   for i in range(len(lista1)-1):
